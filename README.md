@@ -4,7 +4,9 @@
 
 <p align="center" style="font-size: 1.2em;">An Arduino-based Bluetooth RC car controllable via an Android device, featuring customizable NeoPixel LED lighting effects.</p>
 
-
+<p align="center">
+    <img src="RC Car images and videos/IMG_0090.jpg" alt="RC Car" width="900">
+</p>
 
 ---
 
