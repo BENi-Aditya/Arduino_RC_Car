@@ -8,13 +8,15 @@
 <p align="center">
     <table>
         <tr>
-            <td><img src="RC Car images and videos/IMG_8977.jpg" alt="RC Car" width="400"/></td>
-            <td><img src="RC Car images and videos/IMG_0090.jpg" alt="RC Car" width="400"/></td>
+            <td><img src="RC Car images and videos/IMG_8977.jpg" alt="RC Car" width="300"/></td>
+            <td><img src="RC Car images and videos/IMG_0090.jpg" alt="RC Car" width="300"/></td>
+            <td><img src="RC Car images and videos/IMG_0078.jpg" alt="RC Car" width="300"/></td>
         </tr>
     </table>
 </p>
 
 ---
+
 
 
 <h2 style="color: #f39c12;">Components</h2>
